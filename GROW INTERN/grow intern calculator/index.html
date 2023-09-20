@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculator</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/js" href="js/script.js">
+</head>
+<body>
+    <div class="container">
+        <div class="calculator">
+            <input type="text" id="display" disabled>
+            <div class="buttons">
+                <div class="button" onclick="addToDisplay('7')">7</div>
+                <div class="button" onclick="addToDisplay('8')">8</div>
+                <div class="button" onclick="addToDisplay('9')">9</div>
+                <div class="button operator" onclick="addToDisplay('+')">+</div>
+                <div class="button" onclick="addToDisplay('4')">4</div>
+                <div class="button" onclick="addToDisplay('5')">5</div>
+                <div class="button" onclick="addToDisplay('6')">6</div>
+                <div class="button operator" onclick="addToDisplay('-')">-</div>
+                <div class="button" onclick="addToDisplay('1')">1</div>
+                <div class="button" onclick="addToDisplay('2')">2</div>
+                <div class="button" onclick="addToDisplay('3')">3</div>
+                <div class="button operator" onclick="addToDisplay('*')">*</div>
+                <div class="button" onclick="addToDisplay('0')">0</div>
+                <div class="button clear" onclick="clearDisplay()">C</div>
+                <div class="button equal" onclick="calculateResult()">=</div>
+                <div class="button operator" onclick="addToDisplay('/')">/</div>
+            </div>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
