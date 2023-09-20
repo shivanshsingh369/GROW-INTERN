@@ -21,14 +21,14 @@ In this repository, you will find folders for each task or project I worked on d
 
 ## Usage
 
-Feel free to explore the tasks and projects in this repository. You can clone this repository to your local machine using the following command:
+Feel free to explore the tasks and projects in this repository. (https://github.com/shivanshsingh369/GROW-INTERN/tree/main/GROW%20INTERN)
 
 
 For each task, you will find detailed instructions and explanations in their respective folders.
 
 ## Contributing
 
-I'm open to feedback and collaboration. If you have suggestions for improvements or would like to collaborate on a project. (https://github.com/shivanshsingh369/GROW-INTERN/tree/main/GROW%20INTERN). [contact me](#contact).
+I'm open to feedback and collaboration. If you have suggestions for improvements or would like to collaborate on a project. [contact me](#contact).
 
 ## Contact
 
