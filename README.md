@@ -28,7 +28,7 @@ For each task, you will find detailed instructions and explanations in their res
 
 ## Contributing
 
-I'm open to feedback and collaboration. If you have suggestions for improvements or would like to collaborate on a project, please feel free to [create an issue](https://github.com/shivanshsingh369/GROW-INTERN/tree/main/GROW%20INTERN/issue).
+I'm open to feedback and collaboration. If you have suggestions for improvements or would like to collaborate on a project, please feel free to [create an issue](https://github.com/shivanshsingh369/GROW-INTERN/tree/main/GROW%20INTERN/issue). [contact me](#contact).
 
 ## Contact
 
